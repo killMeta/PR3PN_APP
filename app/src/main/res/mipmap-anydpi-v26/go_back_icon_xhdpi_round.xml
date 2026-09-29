@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@drawable/go_back_icon_xhdpi_background"/>
+    <foreground android:drawable="@mipmap/go_back_icon_xhdpi_foreground"/>
+    <monochrome android:drawable="@mipmap/go_back_icon_xhdpi_foreground"/>
+</adaptive-icon>
